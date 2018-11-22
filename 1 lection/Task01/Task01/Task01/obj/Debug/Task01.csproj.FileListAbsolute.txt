@@ -1,0 +1,7 @@
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake\1 lection\Task01\Task01\Task01\bin\Debug\Task01.exe.config
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake\1 lection\Task01\Task01\Task01\bin\Debug\Task01.exe
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake\1 lection\Task01\Task01\Task01\bin\Debug\Task01.pdb
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake\1 lection\Task01\Task01\Task01\obj\Debug\Task01.csprojAssemblyReference.cache
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake\1 lection\Task01\Task01\Task01\obj\Debug\Task01.csproj.CoreCompileInputs.cache
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake\1 lection\Task01\Task01\Task01\obj\Debug\Task01.exe
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake\1 lection\Task01\Task01\Task01\obj\Debug\Task01.pdb

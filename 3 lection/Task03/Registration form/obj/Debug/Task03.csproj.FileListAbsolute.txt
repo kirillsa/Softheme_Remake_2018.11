@@ -1,0 +1,14 @@
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\3 lection\Task03\Registration form\bin\Debug\Registration form.exe.config
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\3 lection\Task03\Registration form\bin\Debug\Registration form.exe
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\3 lection\Task03\Registration form\bin\Debug\Registration form.pdb
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\3 lection\Task03\Registration form\obj\Debug\MainWindow.g.cs
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\3 lection\Task03\Registration form\obj\Debug\App.g.cs
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\3 lection\Task03\Registration form\obj\Debug\Registration form_MarkupCompile.cache
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\3 lection\Task03\Registration form\obj\Debug\Registration form_MarkupCompile.lref
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\3 lection\Task03\Registration form\obj\Debug\MainWindow.baml
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\3 lection\Task03\Registration form\obj\Debug\Registration form.g.resources
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\3 lection\Task03\Registration form\obj\Debug\Registration_form.Properties.Resources.resources
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\3 lection\Task03\Registration form\obj\Debug\Task03.csproj.GenerateResource.cache
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\3 lection\Task03\Registration form\obj\Debug\Task03.csproj.CoreCompileInputs.cache
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\3 lection\Task03\Registration form\obj\Debug\Registration form.exe
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\3 lection\Task03\Registration form\obj\Debug\Registration form.pdb

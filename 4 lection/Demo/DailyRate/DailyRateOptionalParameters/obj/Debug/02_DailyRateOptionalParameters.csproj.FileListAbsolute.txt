@@ -1,0 +1,12 @@
+D:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate - Complete\DailyRateOptionalParameters\bin\Debug\DailyRateOptionalParameters.exe.config
+D:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate - Complete\DailyRateOptionalParameters\obj\Debug\DailyRateOptionalParameters.exe
+D:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate - Complete\DailyRateOptionalParameters\obj\Debug\DailyRateOptionalParameters.pdb
+D:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate\DailyRateOptionalParameters\bin\Debug\DailyRateOptionalParameters.exe.config
+D:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate\DailyRateOptionalParameters\obj\Debug\DailyRateOptionalParameters.exe
+D:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate\DailyRateOptionalParameters\obj\Debug\DailyRateOptionalParameters.pdb
+D:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate\DailyRateOptionalParameters\bin\Debug\DailyRateOptionalParameters.exe
+D:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate\DailyRateOptionalParameters\bin\Debug\DailyRateOptionalParameters.pdb
+D:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate\DailyRateOptionalParameters\obj\Debug\02_DailyRateOptionalParameters.csprojResolveAssemblyReference.cache
+E:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate\DailyRateOptionalParameters\bin\Debug\DailyRateOptionalParameters.exe.config
+E:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate\DailyRateOptionalParameters\obj\Debug\DailyRateOptionalParameters.exe
+E:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate\DailyRateOptionalParameters\obj\Debug\DailyRateOptionalParameters.pdb

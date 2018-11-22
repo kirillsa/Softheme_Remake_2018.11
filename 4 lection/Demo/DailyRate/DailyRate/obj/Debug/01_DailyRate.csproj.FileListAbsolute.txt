@@ -1,0 +1,10 @@
+D:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate\DailyRate\bin\Debug\DailyRate.exe.config
+D:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate\DailyRate\obj\Debug\DailyRate.exe
+D:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate\DailyRate\obj\Debug\DailyRate.pdb
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\4 lection\Demo\DailyRate\DailyRate\bin\Debug\DailyRate.exe.config
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\4 lection\Demo\DailyRate\DailyRate\bin\Debug\DailyRate.exe
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\4 lection\Demo\DailyRate\DailyRate\bin\Debug\DailyRate.pdb
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\4 lection\Demo\DailyRate\DailyRate\obj\Debug\01_DailyRate.csprojAssemblyReference.cache
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\4 lection\Demo\DailyRate\DailyRate\obj\Debug\01_DailyRate.csproj.CoreCompileInputs.cache
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\4 lection\Demo\DailyRate\DailyRate\obj\Debug\DailyRate.exe
+C:\Users\Qweetyk\Documents\Git\Softheme_Remake_2018.11\4 lection\Demo\DailyRate\DailyRate\obj\Debug\DailyRate.pdb

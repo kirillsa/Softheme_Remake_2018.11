@@ -1,0 +1,24 @@
+D:\Visual CSharp Step By Step\Chapter 3\Windows 7\DailyRate\DailyRate\bin\Debug\DailyRate.exe.config
+D:\Visual CSharp Step By Step\Chapter 3\Windows 7\DailyRate\DailyRate\bin\Debug\DailyRate.exe
+D:\Visual CSharp Step By Step\Chapter 3\Windows 7\DailyRate\DailyRate\bin\Debug\DailyRate.pdb
+D:\Visual CSharp Step By Step\Chapter 3\Windows 7\DailyRate\DailyRate\obj\Debug\DailyRate.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 3\Windows 7\DailyRate\DailyRate\obj\Debug\DailyRate.exe
+D:\Visual CSharp Step By Step\Chapter 3\Windows 7\DailyRate\DailyRate\obj\Debug\DailyRate.pdb
+D:\Visual CSharp Step By Step\Chapter 3\Windows 7\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.exe.config
+D:\Visual CSharp Step By Step\Chapter 3\Windows 7\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.exe
+D:\Visual CSharp Step By Step\Chapter 3\Windows 7\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.pdb
+D:\Visual CSharp Step By Step\Chapter 3\Windows 7\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.exe
+D:\Visual CSharp Step By Step\Chapter 3\Windows 7\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.pdb
+D:\Visual CSharp Step By Step\Chapter 3\Windows 7\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.csprojResolveAssemblyReference.cache
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 3\Windows 7\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 3\Windows 7\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 3\Windows 7\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 3\Windows 7\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 3\Windows 7\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 3\Windows 7\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.csprojResolveAssemblyReference.cache
+D:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.exe.config
+D:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.exe
+D:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.pdb
+D:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.exe
+D:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.pdb
+D:\Dropbox\CSharp_SBS\Lections\Part1_Introducing_C#\3_Methods\Demo\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.csprojResolveAssemblyReference.cache
