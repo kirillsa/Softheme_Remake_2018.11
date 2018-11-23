@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="370" Width="525">
     <Grid>
-        <Grid Margin="12,0,12,0">
+        <Grid Margin="12,12,12,12">
             <Grid.RowDefinitions>
                 <RowDefinition Height="40" />
                 <RowDefinition Height="*" />
@@ -19,13 +19,10 @@
                     <RowDefinition Height="14*" />
                     <RowDefinition Height="2*" />
                 </Grid.RowDefinitions>
-                <Grid.ColumnDefinitions>
-
-                </Grid.ColumnDefinitions>
-                <TextBlock x:Name="enterDate" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center"  VerticalAlignment="Top" Text="Enter your date of birth" Margin="12,10,12,12" FontSize="13"/>
-                <TextBox x:Name="dateField" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Top" Width="220" Margin="12,30,12,12" FontSize="15" />
-                <Image x:Name="imageOfSign" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="200" Height="150" Margin="37,0,235,10.4" />
-                <Button x:Name="showSign" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Show Sign" FontSize="18" Width="100" Click="showSign_Click" />
+                <TextBlock Grid.Row="0" HorizontalAlignment="Center"  VerticalAlignment="Top" Text="Enter your date of birth" Margin="12,10,12,12" FontSize="13" />
+                <TextBox x:Name="dateField" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Top" Width="220" Margin="12,30,12,12" FontSize="15" />
+                <Image x:Name="imageOfSign" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="180,80,180,50" Stretch="Fill" />
+                <Button x:Name="btnShowSign" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Show Sign" FontSize="18" Width="100" Click="showSign_Click" />
             </Grid>
         </Grid>
     </Grid>
